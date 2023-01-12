@@ -3,7 +3,7 @@
 # AlgebraCE
 A few algebra-related TI-84 scripts (still being updated).  
 To use, copy the `ALGEBRACE.8xp` file to your calculator.  
-Instructions for use will be added soon, but it's pretty easy to use if you know how to use a calculator.
+Instructions can be found [here](https://github.com/Jackkillian/AlgebraCE/wiki), but it's pretty easy to use if you know how to use a calculator.
 Please note that these scripts are not to be a replacement for actually knowing how to do the things yourself. They are merely supposed to be a tool to use at your own discretion.
 
 # License
