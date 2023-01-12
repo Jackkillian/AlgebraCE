@@ -1,7 +1,9 @@
 ![](logo.png)
 
 # AlgebraCE
-A few algebra-related TI-84 scripts (still being updated)
+A few algebra-related TI-84 scripts (still being updated).  
+To use, copy the `ALGEBRACE.8xp` file to your calculator.  
+Instructions for use will be added soon, but it's pretty easy to use if you know how to use a calculator.
 
 # License
 MIT License
